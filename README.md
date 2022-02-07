@@ -63,7 +63,7 @@ These are the teams participating: please edit this repo yourself following our 
 
 **The EcoFOCI Ecosystem Indicators Team** This team aims to on streamline, document, and standardize survey data analysis and annual reporting of EcoFOCI ecosystem indicators for ESRs and ESPs. This team includes Lauren	Rogers, Jesse	Lamb (@jesseflamb), Kelia Axler (@keliaaxler), Ali Deary (@AlisonDeary-NOAA), and David Kimmel)
 
-**The Marine Mammal Stock Assessments Team** This team aims to streamline the development, review, and publication of the annual Alaska marine mammal stock assessment reports. This team includes Nancy Young (@nancycyoung), Brian Fadely (@BFadely), Erin Richmond, Rod Towell, Tony Orr, and Erin Richmond (@erinrichmond). 
+**The Marine Mammal Stock Assessments Team** This team aims to streamline the development, review, and publication of the annual Alaska marine mammal stock assessment reports. This team includes Nancy Young (@nancycyoung), Brian Fadely (@BFadely), Erin Richmond, Rod Towell (@rtowell), Tony Orr, and Erin Richmond (@erinrichmond). 
 
 **The Midwater pollock Assessment Team** This team aims to create a reproducible and transparent abundance analysis and reporting process for the management of midwater walleye pollock data in Alaska. This team includes Mike Levine, Sarah Stienessen, Nate Lauffenburger, Sam Urmy (@ElOceanografo), and Abigail McCarthy. 	
 
